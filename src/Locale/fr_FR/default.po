@@ -1,0 +1,280 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-02-15 19:09+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ArticlesController.php:33
+msgid "Your article has been saved."
+msgstr ""
+
+#: Controller/ArticlesController.php:36
+msgid "Unable to add your article."
+msgstr ""
+
+#: Controller/ArticlesController.php:47
+msgid "Your article has been updated."
+msgstr ""
+
+#: Controller/ArticlesController.php:50
+msgid "Unable to update your article."
+msgstr ""
+
+#: Controller/ArticlesController.php:62
+msgid "The article with id: {0} has been deleted."
+msgstr ""
+
+#: Controller/EmployeesController.php:65;99
+msgid "The employee has been saved."
+msgstr "L'employé a été sauvé."
+
+#: Controller/EmployeesController.php:69;103
+msgid "The employee could not be saved. Please, try again."
+msgstr "L'employé n'a pas pu être sauvé. Veuillez réessayer."
+
+#: Controller/EmployeesController.php:123
+msgid "The employee has been deleted."
+msgstr "L'employé a été supprimé."
+
+#: Controller/EmployeesController.php:125
+msgid "The employee could not be deleted. Please, try again."
+msgstr "L'employé n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Controller/EmployersController.php:58;85
+msgid "The employer has been saved."
+msgstr "L'employeur a été sauvé."
+
+#: Controller/EmployersController.php:62;89
+msgid "The employer could not be saved. Please, try again."
+msgstr "L'employeur ne pouvait pas être sauvé. Veuillez réessayer."
+
+#: Controller/EmployersController.php:109
+msgid "The employer has been deleted."
+msgstr "L'employeur a été supprimé."
+
+#: Controller/EmployersController.php:111
+msgid "The employer could not be deleted. Please, try again."
+msgstr "L'employeur n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Controller/UsersController.php:33
+msgid "The user has been saved."
+msgstr "L'utilisateur a été enregistré."
+
+#: Controller/UsersController.php:36
+msgid "Unable to add the user."
+msgstr "Impossible d'ajouter l'utilisateur."
+
+#: Controller/UsersController.php:48
+msgid "Invalid username or password, try again"
+msgstr "Nom d'utilisateur ou mot de passe incorrect, réessayez"
+
+#: Template/Articles/add.ctp:14
+#: Template/Articles/edit.ctp:11
+msgid "Save Article"
+msgstr "Enregistrer l'article"
+
+#: Template/Employees/add.ctp:8
+#: Template/Employees/edit.ctp:8
+#: Template/Employees/index.ctp:3;20
+#: Template/Employees/view.ctp:3
+#: Template/Employers/add.ctp:3
+#: Template/Employers/edit.ctp:3
+#: Template/Employers/index.ctp:3;17
+#: Template/Employers/view.ctp:3
+msgid "Actions"
+msgstr "actes"
+
+#: Template/Employees/add.ctp:9
+#: Template/Employees/edit.ctp:15
+#: Template/Employees/view.ctp:6
+#: Template/Employers/add.ctp:5
+#: Template/Employers/edit.ctp:11
+#: Template/Employers/index.ctp:5
+#: Template/Employers/view.ctp:8
+msgid "List Employees"
+msgstr "Liste des employés"
+
+#: Template/Employees/add.ctp:10
+#: Template/Employees/edit.ctp:16
+#: Template/Employees/index.ctp:5
+#: Template/Employees/view.ctp:8
+#: Template/Employers/add.ctp:4
+#: Template/Employers/edit.ctp:10
+#: Template/Employers/view.ctp:6
+msgid "List Employers"
+msgstr "Liste des employeurs"
+
+#: Template/Employees/add.ctp:11
+#: Template/Employees/edit.ctp:17
+#: Template/Employees/index.ctp:6
+#: Template/Employees/view.ctp:9
+#: Template/Employers/index.ctp:4
+#: Template/Employers/view.ctp:7
+msgid "New Employer"
+msgstr "Nouvel employeur"
+
+#: Template/Employees/add.ctp:17
+msgid "Add Employee"
+msgstr "Ajouter un employé"
+
+#: Template/Employees/add.ctp:27
+#: Template/Employees/edit.ctp:33
+#: Template/Employers/add.ctp:18
+#: Template/Employers/edit.ctp:24
+#: Template/Users/add.ctp:11
+msgid "Submit"
+msgstr "Soumettre"
+
+#: Template/Employees/edit.ctp:10
+#: Template/Employees/index.ctp:35
+#: Template/Employers/edit.ctp:5
+#: Template/Employers/index.ctp:29
+msgid "Delete"
+msgstr "Effacer"
+
+#: Template/Employees/edit.ctp:12
+#: Template/Employees/index.ctp:35
+#: Template/Employees/view.ctp:5
+#: Template/Employers/edit.ctp:7
+#: Template/Employers/index.ctp:29
+#: Template/Employers/view.ctp:5
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Voulez-vous vraiment supprimer # {0}?"
+
+#: Template/Employees/edit.ctp:23
+#: Template/Employees/view.ctp:4
+msgid "Edit Employee"
+msgstr "Modifier l'employé"
+
+#: Template/Employees/index.ctp:4
+#: Template/Employees/view.ctp:7
+#: Template/Employers/add.ctp:6
+#: Template/Employers/edit.ctp:12
+#: Template/Employers/index.ctp:6
+#: Template/Employers/view.ctp:9
+msgid "New Employee"
+msgstr "Nouvel employé"
+
+#: Template/Employees/index.ctp:10
+msgid "Employees"
+msgstr "Employés"
+
+#: Template/Employees/index.ctp:33
+#: Template/Employers/index.ctp:27
+msgid "View"
+msgstr "Vue"
+
+#: Template/Employees/index.ctp:34
+#: Template/Employers/index.ctp:28
+msgid "Edit"
+msgstr "modifier"
+
+#: Template/Employees/index.ctp:43
+#: Template/Employers/index.ctp:37
+msgid "first"
+msgstr "premier"
+
+#: Template/Employees/index.ctp:44
+#: Template/Employers/index.ctp:38
+msgid "previous"
+msgstr "précédent"
+
+#: Template/Employees/index.ctp:46
+#: Template/Employers/index.ctp:40
+msgid "next"
+msgstr "prochain"
+
+#: Template/Employees/index.ctp:47
+#: Template/Employers/index.ctp:41
+msgid "last"
+msgstr "dernier"
+
+#: Template/Employees/index.ctp:49
+#: Template/Employers/index.ctp:43
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Page {{page}} de {{pages}}, affichant {{current}} enregistrement (s) sur {{count}} total"
+
+#: Template/Employees/view.ctp:5
+msgid "Delete Employee"
+msgstr "Supprimer un employé"
+
+#: Template/Employees/view.ctp:16
+#: Template/Employers/view.ctp:16
+msgid "Name"
+msgstr "prénom"
+
+#: Template/Employees/view.ctp:20
+msgid "Já trabalhou nesta área?"
+msgstr "Avez-vous travaillé cette région?"
+
+#: Template/Employees/view.ctp:24
+msgid "Employer"
+msgstr "Employeur"
+
+#: Template/Employees/view.ctp:28
+msgid "Employee Id"
+msgstr "Identifiant de l'employé"
+
+#: Template/Employees/view.ctp:32
+msgid "Idade"
+msgstr "âge"
+
+#: Template/Employees/view.ctp:36
+msgid "Imagem"
+msgstr "image"
+
+#: Template/Employers/add.ctp:12
+msgid "Add Employer"
+msgstr "Ajouter un employeur"
+
+#: Template/Employers/edit.ctp:18
+#: Template/Employers/view.ctp:4
+msgid "Edit Employer"
+msgstr "Modifier l'employeur"
+
+#: Template/Employers/index.ctp:10
+msgid "Employers"
+msgstr "Employeurs"
+
+#: Template/Employers/view.ctp:5
+msgid "Delete Employer"
+msgstr "Supprimer l'employeur"
+
+#: Template/Employers/view.ctp:20
+msgid "Employer Id"
+msgstr "Id employeur"
+
+#: Template/Employers/view.ctp:24
+msgid "Age"
+msgstr "âge"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Erreur"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "retour"
+
+#: Template/Users/add.ctp:4
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+#: Template/Users/login.ctp:5
+msgid "Please enter your username and password"
+msgstr "Veuillez s'il vous plaît entrer votre nom d'utilisateur et votre mot de passe"
+
+#: Template/Users/login.ctp:9
+msgid "Login"
+msgstr "S'identifier"
+
